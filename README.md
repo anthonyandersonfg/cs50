@@ -1,4 +1,5 @@
-![Image of Yaktocat](https://cdn.shopify.com/s/files/1/0254/8832/6765/files/CS50_White_Transparent.png)
+![Image of CS50](images/This_is_CS50..png)
+
 # My cs50 Roadmap
 
 I started the CS50 Introduction to Computer Science course and decided to document my entire evolution process during this journey, to track my learnings and encourage other students to do the same.
