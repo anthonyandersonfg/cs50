@@ -6,19 +6,11 @@ I started the CS50 Introduction to Computer Science course and decided to docume
 
 ## Guide
 
-  - [Weak 0](#weak-0)
+  - [Week 0](#week-0)
     - [Lecture 0](#lecture-0)
     - [Problem Set 0](#problem-set-0)
-  - [Runing the tests](#running-the-tests)
-  - [Deployment](#deployment)
-  - [Built With](#built-with)
-  - [Contributing](#contributing)
-  - [Versioning](#versioning)
-  - [Authors](#authors)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
 
-## Weak 0
+## Week 0
 ### Lecture 0
 
   * What is [Computer Science](https://cs50.harvard.edu/x/2020/notes/0/#what-in-computer-science)
@@ -52,7 +44,11 @@ The project is of your choice, it can be a game, an animation, or anything else 
 
 ### My project
 
-I decided to build a game!
+> I decided to build a game!!!
+>
+> — Me, At home
+
+[![Image of Zombie-Waves](images/Zombie-Waves.png)](https://scratch.mit.edu/projects/409369635/)
 
 At first, I had no idea and I started looking for something on the internet, looking for something that would activate my creativity.
 And during this navigation, I saw two sprites, a ninja and a zombie. And immediately, I had an idea.
@@ -64,8 +60,25 @@ There are several conditions to be implemented, such as animating the actions, m
 
 In the end everything worked out! And it made me appreciate even more the games I play on my cell phone. They seem so silly, but I felt how difficult it can be to implement these projects!
 
+**You can [test it](https://scratch.mit.edu/projects/409369635/), and give me your feedback!**
+
+## The amazing artists
+
+The ones who contributed (even that they don't know yet)
+
+|       Artist/Project        |           Project           |       Contact     |
+|:-------------------:|:---------------------------:|:------------------:|
+| [Craftpix](https://craftpix.net/) |   [Background](https://tinyurl.com/y8xgvgoy/)  | [Twitter](https://twitter.com/craftpix_net)  |
+| [Gameart2d](https://www.gameart2d.com/) | [Ninja Girl](https://tinyurl.com/yadb7mr6) **and** [The Zombies](https://tinyurl.com/yaoch38m) | [Twitter](https://twitter.com/pzUH) |
+| [Ross Bugden](https://tinyurl.com/y7gpb4u3) | [Background Music](https://tinyurl.com/y7pxmxse) | [Twitter](https://twitter.com/RossBugden) / [Instagram](https://tinyurl.com/ycshp4ph) |
+| [Soundbible/Mike Koenig](http://soundbible.com/) | [Slime Splash](http://soundbible.com/1097-Slime-Splash.html) | unknown |
+
 ## What have I learned?
 
 I already had some knowledge on this subject, but the lecture filled small gaps of knowledge that I had. Especially in the part of how the data is represented.
 The most important lesson I learned from this week was that at some point, we will always need help, regardless of what we are doing.
 I opened my eyes wide and I can see more clearly the importance of contributing to society and the community with our work!
+
+*If I have made a grammatical error, please let me know*
+
+# Week 1 in progress
