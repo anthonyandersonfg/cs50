@@ -81,4 +81,4 @@ I opened my eyes wide and I can see more clearly the importance of contributing 
 
 *If I have made a grammatical error, please let me know*
 
-# Week 1 in progress
+## Week 1 in progress
