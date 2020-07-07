@@ -69,7 +69,7 @@ The ones who contributed (even that they don't know yet)
 |       Artist/Project        |           Project           |       Contact     |
 |:-------------------:|:---------------------------:|:------------------:|
 | [Craftpix](https://craftpix.net/) |   [Background](https://tinyurl.com/y8xgvgoy/)  | [Twitter](https://twitter.com/craftpix_net)  |
-| [Gameart2d](https://www.gameart2d.com/) | [Ninja Girl](https://tinyurl.com/yadb7mr6) **and** [The Zombies](https://tinyurl.com/yaoch38m) | [Twitter](https://twitter.com/pzUH) |
+| [Gameart2d](https://www.gameart2d.com/) | [Ninja Girl](https://tinyurl.com/yadb7mr6) / [The Zombies](https://tinyurl.com/yaoch38m) | [Twitter](https://twitter.com/pzUH) |
 | [Ross Bugden](https://tinyurl.com/y7gpb4u3) | [Background Music](https://tinyurl.com/y7pxmxse) | [Twitter](https://twitter.com/RossBugden) / [Instagram](https://tinyurl.com/ycshp4ph) |
 | [Soundbible/Mike Koenig](http://soundbible.com/) | [Slime Splash](http://soundbible.com/1097-Slime-Splash.html) | unknown |
 
