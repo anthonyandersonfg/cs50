@@ -1,5 +1,7 @@
 ![Image of CS50](images/This_is_CS50..png)
 
+*Read this in [Portuguese](README.pt.md)*
+
 # My cs50 Roadmap
 
 I started the CS50 Introduction to Computer Science course and decided to document my entire evolution process during this journey, to track my learnings and encourage other students to do the same.
@@ -20,7 +22,7 @@ I started the CS50 Introduction to Computer Science course and decided to docume
     > The language that computers understand. The computer takes the data and turns it into 1's and 0's.
 
   * [Representing data](https://cs50.harvard.edu/x/2020/notes/0/#representing-data)
-    > Shows how the ASCII and Unicode standards are used for data representation.
+    > Shows how the [ASCII](https://en.wikipedia.org/wiki/ASCII) and [Unicode](https://en.wikipedia.org/wiki/Unicode) standards are used for data representation.
 
   * [Algorithms](https://cs50.harvard.edu/x/2020/notes/0/#algorithms)
     > Step-by-step instructions for solving a problem.
@@ -64,7 +66,8 @@ In the end everything worked out! And it made me appreciate even more the games 
 
 ## The amazing artists
 
-The ones who contributed (even that they don't know yet)
+This project would not be possible if there were no incredible projects and incredible people who made some of their work available for free!
+The ones who contributed (even that they don't know yet):
 
 |       Artist/Project        |           Project           |       Contact     |
 |:-------------------:|:---------------------------:|:------------------:|
