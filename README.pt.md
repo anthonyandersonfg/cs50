@@ -83,4 +83,107 @@ Apesar de já ter um certo conhecimento na área, a aula preencheu pequenos gaps
 A lição mais importante que tirei desta semana foi que em algum momento, nós sempre vamos precisar de ajuda, independente do que estivermos fazendo.
 Abri bem os meus olhos e consigo ver com mais clareza a importância de contribuir na sociedade e comunidade com os nossos projetos
 
-## Week 1 in progress
+## Week 1 (C)
+### Lecture 1
+
+A semana 1 nos apresentou a linguagem C e fez paralelo entre ela e Scratch. Mostrando que elas têm as mesmas funcionalidades, porém a linguagem C, tem uma linguagem menos amigável. 
+E de costume, nos é ensinado como fazer o famoso `Hello, world!` em C.
+
+```c
+#include <stdio.h>
+
+int main(void)
+{
+    printf("hello, world\n");
+}
+```
+
+Mas não parou por aí, a aula também abordou assuntos como: 
+  * Compiladores
+    > programas utilizados para converter o código para a linguagem das máquinas (binária).
+
+  * Strings
+    > é uma sequência de caracteres, geralmente utilizada para representar palavras, frases ou textos de um programa.
+
+  * Bool
+    > expressão booleana de `true` e `false`.
+
+  * Char
+    > um único caractere, como `a` ou `2`.
+
+  * Double
+    > um valor de ponto flutuante, com ainda mais dígitos.
+
+  * Float
+    > um valor de ponto flutuante ou número real com um valor decimal.
+  
+  * Int
+    > Números inteiros até um determinado tamanho ou número de bits.
+
+  * Long
+    > inteiros com mais bits, para que eles possam contar mais.
+
+## Memória
+
+Nosso computador possui memória, em chips de hardware chamadas RAM, memória de acesso aleatório. Nossos programas usam essa RAM para armazenar dados enquanto são executados, mas essa memória é finita. Portanto, com um número finito de bits, não podemos representar todos os números possíveis. Portanto, nosso computador possui um certo número de bits para cada float e int e precisa arredondar para o valor decimal mais próximo em um determinado ponto.
+
+## Imprecisão
+
+Ocorre quando não temos bits suficientes para armazenar todos os valores possíveis.
+
+## Integer Overflow
+
+Ocorre quando uma operação aritmética tenta criar um valor numérico que está fora do intervalo que pode ser representado com um determinado número de dígitos maior que o valor máximo ou menor que o mínimo representável. 
+
+### Problem Set 1
+
+Os desafios são divididos em **dois níveis**, **menos confortável** e **mais confortável**. 
+Onde no nível **menos confortável**, o desafio é **um pouco mais fácil**, ideal para aqueles que estão iniciando agora a programar. 
+
+O **mais confortável** é indicado para aqueles que, como o nome já diz, se **sentem mais confortáveis em programar**. 
+
+Decidi fazer os **dois desafios no nível mais confortável**
+
+## Mario mais confortável
+
+No começo do Mundo 1-1 nos Super Mario Brothers da Nintendo, Mario deve pular sobre pirâmides de blocos adjacentes, conforme abaixo.
+
+![Image of Mario](https://cs50.harvard.edu/x/2020/psets/1/mario/more/pyramids.png)
+
+O programa que escreveremos será chamado Mario. E vamos permitir que o usuário decida a altura das pirâmides solicitando um **número inteiro** positivo entre, digamos, **1 e 8**, inclusive.
+
+Veja como o programa deve funcionar se o usuário digitar 8 quando solicitado:
+
+```console
+$ ./mario
+Height: 8
+       #  #
+      ##  ##
+     ###  ###
+    ####  ####
+   #####  #####
+  ######  ######
+ #######  #######
+########  ########
+```
+
+## Credit (mais confortável) 
+
+Neste desafio, precisamos validar cartões de crédito. É necessário aplicar o **[algorítimo de Luhn](https://en.wikipedia.org/wiki/Luhn_algorithm)** para verificar se o cartão é valido ou não, e retornar qual a operadora do cartão de crédito, com base no número fornecido. 
+
+Para maiores detalhes, olhar diretamente na **[página da CS50](https://cs50.harvard.edu/x/2020/psets/1/credit/)**, sobre o desafio. 
+
+**Não postarei a minha solução para os problemas, pois estaria infringindo as regras estabalecidas pelo curso.**
+
+## O que eu aprendi?
+
+Aprendi muito nesta aula! Já tinha ouvido falar em C, mas não fazia ideia de como funcionava. 
+
+Tive um grande choque ao começar a programar nela, pois como comecei a aprender a programar por javascript, foi como se eu tivesse trabalhando com um veterano de guerra muito birrento. Você tem que falar direito com ele, se não, ele te quebra na porrada haha. 
+
+Se você esquecer de pôr um ponto-e-vírgula no javascript, que é uma mãe, não tem problema algum, ela vai lá e põe para você e ainda te dá um beijo.
+Já em C, se você esquecer, ele não faz o que você pediu e ainda briga com você.
+
+Entretanto, por mais que eu me sinta muito mais travado programando em C, sinto que estou aprendendo muito. C nos ajuda a entender melhor sobre os tipos de dado, porque se você não souber, ele não funciona. 
+
+Sinto que quando eu voltar mais ativamente para o javascript vou ter evoluído bastante e estarei muito mais preparado. 
